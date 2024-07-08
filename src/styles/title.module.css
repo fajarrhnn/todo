@@ -1,0 +1,8 @@
+@font-face {
+  font-family: RobotoBold;
+  src: url("../assets/Roboto-Bold.ttf");
+}
+
+h1 {
+  font-family: RobotoBold, sans-serif;
+}

@@ -1,0 +1,8 @@
+@font-face {
+  font-family: RobotoRegular;
+  src: url("../assets/Roboto-Regular.ttf");
+}
+
+p {
+  font-family: RobotoRegular, sans-serif;
+}
